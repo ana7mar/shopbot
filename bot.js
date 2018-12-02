@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "513802675318685714"; // ايدي السررفر
 var channel = "513802675318685719";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**, Hi Btl And Meto Spam Anta men ??? ana Meto anta Menn ana Btl anta spamm ??? yes hi hihihihihihihihihihihihihihihihihihihihihihihihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiasdghgasfgasgfvbnasvbfasvgfhgashgfhgashfgasghasjgskanfjnaskgnjhasgfhhaskfjjkasgshajfhnklsamlcvnjhasvbfgasgfhjaskkflsjakghsjkahoithuiashjfnasklnfgjkashgjasg,mas,gnjkasbhfghaskgjklasjhghauisghjakshgjhdsajkghakgjkljdklasghjkahsgkaskghsiohgioahgjklhasjhgjkasghghghghghghghghghghghghghghghghghghghi  ,**')
+    client.guilds.get(server).channels.get(channel).send('**, Hi Btl And Meto Spam Anta men ??? ihihihihihihihihihihihihihihihihihihihihihihihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiasdghgasfgasgfvbnasvbfasvgfhgashgfhgashfgasghasjgskanfjnaskgnjhasgfhhaskfjjkasgshajfhnklsamlcvnjhasvbfgasgfhjaskkflsjakghsjkahoithuiashjfnasklnfgjkashgjasg,mas,gnjkasbhfghaskgjklasjhghauisghjakshgjhdsajkghakgjkljdklasghjkahsgkaskghsiohgioahgjklhasjhgjkasghghghghghghghghghghghghghghghghghghghi  ,**')
     },305);
 })
 
